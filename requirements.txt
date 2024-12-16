@@ -1,0 +1,4 @@
+torch==2.2.0
+transformers==4.37.0
+flask==3.0.0
+scikit-learn==1.4.0
